@@ -1,0 +1,7 @@
+{
+  "version": "1.3.244",
+  "publishedAt": "2026-10-27T23:53:03.002Z",
+  "notes": "Clean Overview first load and migrate updates to the public release-only channel",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/curioushy/tracker-prime-releases@v1.3.244/releases/tracker-v1.3.244.zip",
+  "modelsIncluded": false
+}
