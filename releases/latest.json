@@ -1,7 +1,7 @@
 {
-  "version": "1.3.248",
-  "publishedAt": "2026-10-28T07:23:30.606Z",
-  "notes": "Expand global next-results coverage for Asset Managers",
-  "zipUrl": "https://cdn.jsdelivr.net/gh/curioushy/tracker-prime-releases@v1.3.248/releases/tracker-v1.3.248.zip",
+  "version": "1.3.249",
+  "publishedAt": "2026-10-28T08:20:13.942Z",
+  "notes": "Add actual last-release dates to Action results fallback",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/curioushy/tracker-prime-releases@v1.3.249/releases/tracker-v1.3.249.zip",
   "modelsIncluded": false
 }
