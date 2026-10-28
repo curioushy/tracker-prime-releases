@@ -1,7 +1,7 @@
 {
-  "version": "1.3.245",
-  "publishedAt": "2026-10-28T00:47:33.865Z",
-  "notes": "Fix Yahoo 429 fallback stalls and sparkline symbol coverage",
-  "zipUrl": "https://cdn.jsdelivr.net/gh/curioushy/tracker-prime-releases@v1.3.245/releases/tracker-v1.3.245.zip",
+  "version": "1.3.246",
+  "publishedAt": "2026-10-28T04:00:29.927Z",
+  "notes": "Remove delisted NSA from US REITs and guard suspended EC World charts",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/curioushy/tracker-prime-releases@v1.3.246/releases/tracker-v1.3.246.zip",
   "modelsIncluded": false
 }
